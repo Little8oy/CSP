@@ -1,9 +1,19 @@
 # CSP
 AP CSP from jones 2025-2026
-NFL_Teams is my ap work for the final as it is a NFL cool facts typa thing as it states what coach coahces what team and what stadium teams play for
-Bottles is a song and it goes on till it hits zero
-Movie.py shows what movies you can watch and is dependatn on your age like 7 years can only watch PG
-Pokemon is like the pokemon game and you can play and level up a pokemon and fight trainers and if your under leveld it makes you play again.
-rps is rock paper scisorrs. 
-sim race is a simulation of a hare vs a turtle but the hare can fall asleep
-weather input a number weather and says if its hot warm or cold. 
+................................................................................................................................................................................................................................
+"NFL_TEAMS" This Python program provides basic information about NFL teams from the 2019–2020 season. It loads team data from a CSV file and allows users to interactively query:Head coaches, Teams by conference/division, Stadium names. 
+................................................................................................................................................................................................................................
+"bottles" This Python script prints a countdown version of the classic “100 Bottles of Milk” song. Starting from 100 bottles, it repeatedly prints each verse while decrementing the bottle count until it reaches 0. The program demonstrates:Looping with for, Conditional branching (if statements), String formatting, Basic program structure with a main() function. 
+................................................................................................................................................................................................................................
+"movie" This Python program asks the user for their age and then tells them what category of movies they are allowed to watch based on standard U.S. film rating guidelines. It’s a simple example of: User input, Conditional logic (if / elif / else), Basic program structure
+................................................................................................................................................................................................................................
+"pokemon" This Python program is a mini text‑based Pokémon game where you start with Gastly and train it to evolve into Haunter and eventually Gengar.
+You can: Train your Pokémon Battle gym opponents Attempt a final boss fight View your Pokémon’s stats Watch your Pokémon evolve with ASCII art.
+................................................................................................................................................................................................................................
+"rps" This Python program is a simple text‑based Rock–Paper–Scissors game where the player competes against the computer.
+Each round:The player chooses rock, paper, or scissors, The computer randomly selects one of the three options, The game determines the winner ,Wins, losses, and ties are tracked and displayed
+................................................................................................................................................................................................................................
+"simsrace" This Python program simulates the classic Tortoise vs. Hare race thousands of times to determine which competitor statistically wins more often. Each race: The tortoise moves slowly but consistently The hare moves quickly but often sleeps The first to reach the finish line (50 meters) wins. The simulation repeats 100,000 races, tracking how many times each competitor wins.
+................................................................................................................................................................................................................................
+"weather" This Python program asks the user for the current temperature and then recommends what type of clothing to wear. It uses simple conditional logic to give advice based on temperature ranges.
+................................................................................................................................................................................................................................
